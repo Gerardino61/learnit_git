@@ -1,0 +1,1 @@
+This app will be used in lesson learn git session
